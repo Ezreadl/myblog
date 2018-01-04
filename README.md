@@ -6,12 +6,6 @@ youkubi.cn 有苦逼
 
 ## Demo Show
 
-[Demo: 我的博客](https://monniya.com)
-
-![主页封面](source/images/show/home.png)
-
-![文章列表](source/images/show/list.jpeg)
-
 ## 封面
 
 ### 图片和颜色
